@@ -1,0 +1,12 @@
+[
+{
+    "modid" : "magiciu",
+    "name" : "The Magic of The Infinite Universe",
+    "description" : "Journey through the universe with a moonshine still",
+    "version" : "0.0.0.1",
+    "mcversion": "1.12",
+    "authorList": ["Kiribo", "TheZooMThe"],
+    "credits": "I'd like to thank your mother.",
+    "logoFile": "assets/magiciu/logo.png"
+}
+]
